@@ -4,7 +4,7 @@
 
 layout: home
 ---
+# Welcome to index.md!
 
-Hello there this is a test
+[About Me](about.md)
 
-### Blabalala
